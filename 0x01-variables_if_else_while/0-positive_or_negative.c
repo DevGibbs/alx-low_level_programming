@@ -2,8 +2,8 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description: 'a random number to the variable n each time it is executed'
- * Return: Always 0 (Success)
+ * a random number to the variable n each time it is executed
+ * Return: Always 0 (success)
  */
 int main(void)
 {
