@@ -10,7 +10,7 @@ int main(void)
 
 	for (n = 50; n <= 58; n++)
 	{
-		for (m = 50; m <= 59; m++)
+		for (m = 51; m <= 59; m++)
 		{
 			if (m > n)
 			{
